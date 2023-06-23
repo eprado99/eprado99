@@ -2,7 +2,7 @@
 #### I'm a Fullstack developer.
 
 - 🔭 I’m actively looking for a full-time job. 
-- 💻 I keep myself up to date with everything related to React, Go & Azure.
+- 💻 I keep myself up to date with everything related to React, .NET, Go & Azure.
 - 🌱 I’m currently learning all about Go Lang.
 
 #### How to reach me
