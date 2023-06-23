@@ -5,6 +5,8 @@
 - 💻 I keep myself up to date with everything related to React, .NET, Go & Azure.
 - 🌱 I’m currently learning all about Go Lang.
 
+#### Please visit <a target="_blank" href="https://mindzone.dev/">Mindzone</a>, my latest side project where you can solve and conquer productivity issues by using Pomodoro Technique, built-in Note and Task Taking. 
+
 #### How to reach me
 
 <a target="_blank" href="https://www.eprado.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /></a>
